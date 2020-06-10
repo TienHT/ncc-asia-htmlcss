@@ -22,11 +22,13 @@ h1{
     color:#9399a3;
 }
 .left {
+
     width: 200px;
     height: auto;
     
 }
 ul{
+    margin: 0;
     padding: 0;
     list-style-type: none;
  
